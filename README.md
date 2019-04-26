@@ -1,0 +1,2 @@
+# pyblog
+learning python mega
